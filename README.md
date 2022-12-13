@@ -26,3 +26,6 @@ The backend was build using ASP.NET. <br> Link:https://github.com/heyhuman2022/H
 <ul>
   <li><p><b>npm run serve</b><p/></li>
 </ul>
+
+![background2](https://user-images.githubusercontent.com/118556895/207407362-bb8d54a0-b271-47d2-b868-d7a72e5407a5.jpeg)
+
