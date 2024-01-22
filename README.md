@@ -1,31 +1,6 @@
-# HEYHUMAN_CHAT
-This is a web app users can register and can login with his password and can chat with other users in real time.
+<h2> When You're Going To Change The World, Don't Ask For Permission <img src = "https://github.com/youngbin03/youngbin03/assets/87307678/8679f486-4ced-495f-b8c3-1d9dade03779" width="30"> </h2>
 
-<h2>Backend</h2>
-The backend was build using ASP.NET. <br> Link:https://github.com/heyhuman2022/HEYHUMAN_BACKEND.git
+<p> <img align='right' src = "https://github.com/youngbin03/youngbin03/assets/87307678/172b633e-5378-42f8-ba40-823df4772f60" width="300"> 
+😎 SINOBIN 
 
-<h3>Technologies</h3>
-<ul>
-  <li>VUE.js 3</li>
-  <li>Node.js (version:16.15.0)</li>
-  <li>Vue cli</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-
-<h3>Project Setup</h3>
-<p>We need npm package manager to setup everything. Visit Node.js , download and install nodejs which will install npm package manager with it.</p>
-<ul>
-  <li>Open a terminal or command promt in the directory where the project is kept and run the following commands</li>
-  <p><b>npm install</b><p/>
-</ul>
-
-<h3>Compiles and hot-reloads for development</h3>
-<p>We need npm package manager to setup everything. Visit Node.js , download and install nodejs which will install npm package manager with it.</p>
-<ul>
-  <li><p><b>npm run serve</b><p/></li>
-</ul>
-
-![background2](https://user-images.githubusercontent.com/118556895/207407362-bb8d54a0-b271-47d2-b868-d7a72e5407a5.jpeg)
-
+2030 아시아에서 가장 영향력있는 리더(30세 이하) 선정되기 </p>
